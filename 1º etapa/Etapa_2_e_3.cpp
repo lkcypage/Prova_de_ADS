@@ -25,10 +25,10 @@ int main(){
 	printf("Insira seu nome: ");
 	scanf("%s", &nome);
 	if (op == 1 ){
-		printf("Valor da compra é: %.2f", res);
+		printf("Valor da compra Ã©: %.2f", res);
 	}
 	else{
-		printf("Valor da compra é: %.2f", valor);
+		printf("Valor da compra Ã©: %.2f", valor);
 	}
 	return 0;
 }
