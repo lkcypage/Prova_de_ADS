@@ -122,7 +122,7 @@ int main() {
     scanf("%s", &nome); //faltou &
 
     printf("Digite sua nota: ");
-    scanf("%f", &nota1); // é %f
+    scanf("%f", &nota1); // Ã© %f
 
     if (nota1 >= 60){  // Colocado {
         printf("%s: aprovado\n", nome);
